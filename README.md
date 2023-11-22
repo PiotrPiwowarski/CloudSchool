@@ -1,9 +1,9 @@
 # CloudSchool
 Electronic class diary for schools 
 
-#Technologies
-Java 
-Spring Boot 
-Spring Security 
-Spring Data 
-MySQL
+# Technologies
+Java <br>
+Spring Boot <br>
+Spring Security <br>
+Spring Data <br>
+MySQL <br>
